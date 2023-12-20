@@ -13,4 +13,4 @@ This software is provided "as is", without warranty of any kind. The creator sha
 4. Contact and Original Creator
 Creator: Chase B Gartner
 Contact Email: chasebgartner@gmail.com
-GitHub Repository: [
+GitHub Repository: https://github.com/CrossFarmer/AutoInvoicer3.0
